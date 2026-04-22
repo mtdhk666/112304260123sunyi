@@ -3,8 +3,9 @@
 ## 实验信息
 - **实验名称**：Bag of Words Meets Bags of Popcorn
 - **竞赛链接**：https://www.kaggle.com/competitions/word2vec-nlp-tutorial/overview
-- **学生姓名**：[请填写姓名]
-- **学生学号**：[请填写学号]
+- **学生姓名**：孙意
+- **学生学号**：112304260123
+- **班级**：数据1231
 - **实验日期**：2026-04-15
 
 ## 仓库结构
