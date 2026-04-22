@@ -1,0 +1,23 @@
+# 模型文件
+*.pkl
+*.model
+
+# 缓存文件
+__pycache__/
+*.pyc
+
+# 数据文件（如果数据文件太大，可以取消注释下面的行）
+# labeledTrainData.tsv/
+# testData.tsv/
+# unlabeledTrainData.tsv/
+
+# 日志文件
+*.log
+
+# IDE 文件
+.vscode/
+.idea/
+
+# 系统文件
+Thumbs.db
+.DS_Store
